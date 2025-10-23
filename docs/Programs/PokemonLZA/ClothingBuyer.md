@@ -17,7 +17,7 @@ Purchase clothing from shops.
 1. The selection arrow is on the first item in the menu for buying clothing. (See example picture.)
 2. Start the program in-game. The program will automatically stop when the number of categories is hit (see options).
 
-The program wil buy out all clothing and color variants in the specified number of categories. It will not automatically put on any of the purchased clothing.
+The program will buy out all clothing and color variants in the specified number of categories. It will not automatically put on any of the purchased clothing.
 
 Make sure you have enough money, the program will not detect when you are out of cash.
 
