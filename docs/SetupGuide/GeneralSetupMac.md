@@ -6,7 +6,7 @@ This section will walk you through setting up everything leading up the the cont
 
 ### Stop and Check:
 
-If your macOS version is Monterrey (12) or lower, you will need to compile SerialPrograms from source code. Instructions to do so can be found [here](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/BuildInstructions/CompilingForMac.md). Follow the tutorial to build SerialProgram and return back here to setup video/audio.
+If your macOS version is Sonoma (14) or lower, you will need to compile SerialPrograms from source code. Instructions to do so can be found [here](https://github.com/PokemonAutomation/Arduino-Source/blob/main/SerialPrograms/BuildInstructions/CompilingForMac.md). Follow the tutorial to build SerialProgram and return back here to setup video/audio.
 
 > To check your OS version, click the Apple logo at the top left in the Toolbar and select **About This Mac**.
 
@@ -14,12 +14,16 @@ If your macOS version is Monterrey (12) or lower, you will need to compile Seria
 
 ### Download SerialPrograms-Installer.dmg
 
-For those with macOS Ventura (13) and later, download the latest version of our programs [here](https://github.com/PokemonAutomation/AutoBuildRelease/releases)
+For those with macOS Sequoia (15) and later, download the latest version of our programs:
+
+> [Click here to go to downloads](https://github.com/PokemonAutomation/AutoBuildRelease/releases)
+
+Be sure to download the correct installer for your architecture; if you have Apple Silicon, download the arm64 installer and if you have an Intel-based Mac, install x86_64.
 
 
 ## Step 2: Open up SerialPrograms.
 
-1. Open `SerialPrograms-Installer.dmg`
+1. Open `SerialPrograms-Installer-[architecture].dmg`
 
 2. Drag `SerialPrograms` into the `Applications` folder
 
@@ -37,7 +41,7 @@ For those with macOS Ventura (13) and later, download the latest version of our 
 
 6. Follow the prompts to open the app. You may need to click **Open Anyways** multiple times and you may need to input your password. Note that this is only needed the first time you open the app. For the first time, the app may take some time to open.
 
-7. The app may ask you to install Rosetta and/or give the app permissions to files/camera/microphone. These are required in order to write program settings to file and read video and audio from your capture card.
+7. The app may ask you to give the app permissions to files/camera/microphone. These are required in order to write program settings to file and read video and audio from your capture card.
 
 <img src="Images/Mac/app-interface.png" style="display: block; margin: 10px 40px" width="80%"> 
 
