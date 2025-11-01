@@ -323,6 +323,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 | **General:** |
 | [Clothing Buyer](PokemonLZA/ClothingBuyer.md)                          | Purchase clothing from shops.                          | Video         | All |
 | [Restaurant Farmer](PokemonLZA/RestaurantFarmer.md)                    | Farm the restaurant battles for exp, items, and money. | Video         | All |
+| [Mega Shard Farmer](PokemonLZA/MegaShardFarmer.md)                     | Farm Mega Shards.                                      | Video         | All |
 ||
 | **Shiny Hunting:** |
 | [Shiny Hunt - Bench Sit](PokemonLZA/ShinyHunt-BenchSit.md)             | Shiny hunt using the bench reset method.               | Video + Audio | All |
