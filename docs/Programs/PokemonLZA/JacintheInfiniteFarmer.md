@@ -33,9 +33,8 @@ In this mode, the program will spam 3 moves in the following priority:
 
 - Top
 - Left
-- Bottom
 
-It will never use the Right move slot as that is the A button which interferes with parts of the program.
+It will never use the Right and Bottom move slots as those are the A and B button which interfere with parts of the program.
 
 
 In both modes, if your Pokémon faints, it will automatically timeout and switch to the next Pokémon in your party. The move priority is the same for all members of your party.
