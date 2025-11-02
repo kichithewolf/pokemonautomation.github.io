@@ -10,7 +10,7 @@ With max level Canari Plush you will get 8100 Poké Dollar per round.
 
 ### Instructions
 
-1. Train a strong steel or poison type Pokémon that can defeat Jacinthe's high-level fairy type Pokémon.
+1. Train a strong steel or poison type Pokémon that can defeat Jacinthe's high-level fairy type Pokémon. We recommend Metagross (see below).
 2. Stand facing Jacinthe in Hotel Richissime with Button A icon visible.
 3. Select the strong Pokémon so it will lead the battle.
 4. Start the program in the game.
@@ -29,7 +29,7 @@ In this mode, the program will choose the move with the best type effectiveness 
 
 **Without Battle AI:**
 
-In this mode, the program will spam 3 moves in the following priority:
+In this mode, the program will spam 2 moves in the following priority:
 
 - Top
 - Left
@@ -41,16 +41,18 @@ In both modes, if your Pokémon faints, it will automatically timeout and switch
 
 ### Recommended Pokémon
 
-- Level 100, max IV, full HP EV and full attack/special attak EV.
+- Level 100, max IV, full HP EV and full attack/special attack EV.
 
 - Bring Shell Bell to recover health.
 
-- Metagross: Iron Head, Heavy Slam, Earthquake, Power-Up Punch
-  - Earthquake is for Mawile that is neutral to steel attacks.
+- Metagross: Heavy Slam
+  - Heavy Slam used by a Lv. 100, full attack IV and EV and adamant nature alpha Metagross, one shots every Jacinthe's Pokémon.
+  - Other good moves: Iron Head and Earthquake. Earthquake is to defeat Mawile that is neutral to steel attacks.
 
 ## Credits
 
 - **Author:** Gin, Kuroneko/Mysticial
+
 
 
 <hr>
