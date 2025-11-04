@@ -23,7 +23,20 @@ To develop the website locally on your PC, you need to install MkDocs Material
 pip install mkdocs-material "mkdocs-material[imaging]"
 ```
 
-For macOS, you also need to install some system-wide libraries (we install them via Homebrew):
+See this page for more information/troubleshooting tips:
+
+https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/
+
+**Windows**
+- Install Cairo Graphics library. install this via MSYS2
+    - within MSYS2 terminal:
+```
+pacman -S mingw-w64-ucrt-x86_64-cairo
+```
+- add `C:\msys64\ucrt64\bin` to PATH, within "Environmental Variables".
+
+**macOS**
+You also need to install some system-wide libraries (we install them via Homebrew):
 ```
 brew install cairo pango gdk-pixbuf libffi
 ```
