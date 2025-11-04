@@ -24,6 +24,7 @@ jobs:
           pip install mkdocs
           pip install mkdocs-material
           pip install pillow cairosvg
+          pip install mkdocs-include-dir-to-nav
 
       - name: Build and deploy
         run: mkdocs gh-deploy --force

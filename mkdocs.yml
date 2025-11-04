@@ -19,7 +19,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.follow
-    #- toc.integrate
+    - toc.integrate
     - search.suggest
     - search.highlight
   palette:
@@ -48,8 +48,20 @@ theme:
 # Defines the navigation tab bar on PC / dropdown menu on mobile
 nav:
   - Home: index.md
-  - Getting Started: SetupGuide/index.md
-  - Programs: Programs/index.md
+  - Getting Started: 
+      - SetupGuide/index.md
+      - Controllers: SetupGuide/Controllers
+  - Programs: 
+      - Programs/index.md
+      - NintendoSwitch: Programs/NintendoSwitch
+      - PokemonBDSP: Programs/PokemonBDSP
+      - PokemonHome: Programs/PokemonHome
+      - PokemonLGPE: Programs/PokemonLGPE
+      - PokemonLZA: Programs/PokemonLZA
+      - PokemonSV: Programs/PokemonSV
+      - PokemonSwSh: Programs/PokemonSwSh
+      - ZeldaTotK: Programs/ZeldaTotK
+      - ML: Programs/ML
   - Controllers: ControllerList.md
   - Discord Integration:
       - Overview: DiscordIntegration/index.md
@@ -61,6 +73,7 @@ nav:
       - How to Use Github: Developer/Git.md
       - Tutorial Button Script: Developer/TutorialMC.md
       - Tutorial Home Sorter: Developer/TutorialCC.md
+      - Development Topics: Developer
 
 plugins:
   # Create social cards for link preview
@@ -68,6 +81,7 @@ plugins:
   # This only works if "site_url" is set in mkdocs.yml.
   - social
   - search
+  - include_dir_to_nav
 
 # extensions
 markdown_extensions:
