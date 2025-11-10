@@ -321,6 +321,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 | Game Settings | --- | --- | --- |
 ||
 | **General:** |
+| [Cafe Buyer](PokemonLZA/CafeBuyer.md)                                  | Repeatedly use Cafes to obtain the Cafe Regular title. | Video         | All |
 | [Clothing Buyer](PokemonLZA/ClothingBuyer.md)                          | Purchase clothing from shops.                          | Video         | All |
 | [Stall Buyer](PokemonLZA/StallBuyer.md)                                | Purchase items from stalls.                            | Video         | All |
 | [Self Box Trade](PokemonLZA/SelfBoxTrade.md)                           | Trade boxes of Pokémon between two Switches locally.   | Video         | All |
