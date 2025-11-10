@@ -12,12 +12,12 @@ While this program is intended for catching a knocked out Pokémon, it can be us
 
 ### Instructions
 
-1. Save in front of a knocked out Pokémon.
+1. Save in front of a Pokémon that you would like to catch.
 2. Start the program in the game.
 
 The program will throw a ball at the whatever it locks on to. Then it will reset the game and repeat.
 
-This is not a smart program that will automatically stop and notify you when the catch succeeds. Instead, it relies on the fact that the game will auto-save on a catch. Therefore you will need to manually check on the program and stop it if the catch was successful. This is fine because this is not a program that run for a long time.
+This is not a smart program that will automatically stop and notify you when the catch succeeds. Instead, it relies on the fact that the game will auto-save on a catch. Therefore you will need to manually check on the program and stop it if the catch was successful. This is fine because this is not a program that will need to run for a long time.
 
 
 ## Options
@@ -46,5 +46,6 @@ These are timing parameters. You should not need to adjust these.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
