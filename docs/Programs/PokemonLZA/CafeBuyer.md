@@ -23,7 +23,7 @@ Make sure you have enough money, the program will not detect when you are out of
 
 This program can handle the day/night change.
 
-If using this program to raise friendship (+30 each time), please note that each purchase will only affect your active Pokemon. If using to evolve Eevee, make sure to change the day/night cycle afterwards, as the evolution prompt will not appear until the next change.
+For raising friendship, use [Friendship Farmer](FriendshipFarmer.md) instead. However, if using this program to raise friendship (+30 each time), please note that each purchase will only affect your active Pokemon. If using to evolve Eevee, make sure to change the day/night cycle afterwards, as the evolution prompt will not appear until the next change.
 
 ## Options
 
