@@ -14,6 +14,15 @@ It takes ~13.5 minutes to evolve a full party using the café method. The bench 
 
 ## Instructions
 
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+
 ### Café Method
 
 1. Have enough money to pay for all the drinks. The program will not detect if you are out of cash.
