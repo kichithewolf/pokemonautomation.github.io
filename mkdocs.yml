@@ -81,7 +81,43 @@ plugins:
   # This only works if "site_url" is set in mkdocs.yml.
   - social
   - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh-CN
+          name: 简体中文
+          build: true
+          theme:
+            language: zh
+          nav_translations:
+            Home: 主页
+            Getting Started: 上手指南
+            Programs: 自动化程序
+            Controllers: 单片机支持
+            Discord Integration: Discord整合
+            Developer: 开发者
   - include_dir_to_nav
+
+# Hook to fix relative paths in translated pages
+hooks:
+  - hooks/i18n_path_fix.py
+
+# Language switcher configuration
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: 简体中文
+      link: /zh-CN/
+      lang: zh-CN
 
 # extensions
 markdown_extensions:

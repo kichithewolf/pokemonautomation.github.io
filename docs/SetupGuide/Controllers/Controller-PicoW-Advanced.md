@@ -22,8 +22,8 @@ If you are here, we assume that you already have a working Pico W (UART mode) se
 
 1. A Raspberry Pi Pico W, or Pico 2 W microcontroller. (without pins)
 2. [A micro-USB to USB-A cable or adapter.](https://www.amazon.com/gp/product/B09FXJD61Z)
-3. [USB to Serial TTL (UART)](https://www.amazon.com/dp/B07T1XR9FT)
-4. [1N5817 Schottky Diode](https://www.amazon.com/dp/B07Q5H1SLY)
+3. [USB to Serial TTL (UART).](https://www.amazon.com/dp/B07T1XR9FT)
+4. [1N5817 Schottky Diode.](https://www.amazon.com/dp/B07Q5H1SLY)
 5. [Press-fit Headers.](https://www.adafruit.com/product/5938) (or soldering)
 6. [Dupont connector kit.](https://www.amazon.com/dp/B096DC1J3X) (or soldering)
 7. [Pico enclosure.](https://www.adafruit.com/product/6252) (only compatible with Picos without pins)
