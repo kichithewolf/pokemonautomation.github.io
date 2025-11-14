@@ -1,5 +1,7 @@
 # Shiny Hunt - Wild Zone Entrance 
 
+See also: [Shiny Hunting Recommendations](ShinyHuntRecommendations.md)
+
 A new beta version of the program is available [below](#beta-shiny-hunt-wild-zone-entrance).
 
 ## Program Description
@@ -227,6 +229,7 @@ Do not choose *Keep running. Notify on all shiny sounds*.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
