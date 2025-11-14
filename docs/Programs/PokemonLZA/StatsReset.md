@@ -1,4 +1,4 @@
-# Stats Reset
+# Stats Reset (Beta testing - not yet released)
 
 ## Program Description
 
@@ -52,5 +52,6 @@ The desired IV spread for each stat.
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
