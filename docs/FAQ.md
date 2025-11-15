@@ -58,9 +58,9 @@ Beyond this, there are concerns about timing stability. Unlike microcontrollers,
 
 Yes and no.
 
-We still support the old setups (Arduino/Teensy/Pro Micro), but they are deprecated in favor of the newer controllers (ESP32, ESP32-S3, Pico W).
+We still support the old setups (Arduino/Teensy/Pro Micro), but they are deprecated in favor of the newer controllers (ESP32, ESP32-S3, Raspberry Pi Pico W).
 
-- If you are coming from the old "microcontroller-only" programs, you will need to purchase a UART. But in this case, it's much easier and cheaper to just to abandon your old hardware and get one of the newer controller setups.
+- If you are coming from the old "microcontroller-only" programs, you will need to purchase and setup a UART. But in this case, it's much easier and cheaper to just to abandon your old hardware and get one of the newer controller setups which do not require a UART.
 - If you are coming from the older computer-control setups and already have a UART, you can continue using it. But if you have any difficulty setting it up, we are going to tell you to just abandon it and get the newer controllers.
 
 The newer controllers are cheaper, much easier to setup, and more reliable than the old ones with manual UART wiring.
