@@ -54,8 +54,6 @@ Program: [Turbo A](../NintendoSwitch/TurboA.md) (located under the Nintendo Swit
 | --- | --- | --- |
 | Beldum,<br>Metang | In Lysandre Labs, run to the Beldum room, then fly back to the lab entrance.<br>Run to the teleporter in the screenshot and take it.<br>Once you hear the Beldum cry, start Turbo A.<br>[Video guide.](https://www.youtube.com/watch?v=DBwEtEonidI)| <img src="images/ShinyHuntLocations/TurboA-Beldum.png" width="300"> |
 | Honedge,<br>Doublade<br>Arbok (Alpha)<br>Ekans | Stand on the very first teleporter in Lysandre Labs.<br>[Video guide](https://www.youtube.com/watch?v=l58_9xUD-Yk) | <img src="images/ShinyHuntLocations/TurboA-Honedge.png" width="300"> |
-| Tepig<br>Charmander | Fast Travel to Centrico Plaza, the first option in the Travel Spots.<br>Run North West against the wall for ~10 seconds. | <img src="images/ShinyHuntLocations/TurboA-TepigCharmander.png" width="300"> |
-| Pichu<br>Mareep | Fast Travel to Pokemon Research Lab, the third option in the Travel Spots.<br>Turn around, run North East for ~5 seconds. | <img src="images/ShinyHuntLocations/TurboA-PichuMareep.png" width="300"> |
 
 ## Credits
 
