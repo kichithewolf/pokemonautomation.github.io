@@ -39,7 +39,7 @@ The starting location and situation you are in.
 
 Boat/Walk up:
 
-<img src="images/ShinyHuntDeoxys-1.png">
+<img src="images/ShinyHuntDeoxys-1.jpg">
 
 Your character has just arrived and has not moved from where they exited the ship. Alternatively, they are anywhere on the straight line walking up to the Deoxys rock. The Deoxys puzzle has not been solved.
 

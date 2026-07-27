@@ -24,7 +24,7 @@ Use the Run Away method to shiny hunt Mew in Emerald.
 
 ## Instructions
 
-<img src="images/ShinyHuntMew-1.png">
+<img src="images/ShinyHuntMew-1.jpg">
 
 1. Travel to Faraway Island and stand in the position pictured above.
 2. Start the program in game.
@@ -37,7 +37,7 @@ If you stop the program and switch off or soft reset your game, try to vary the 
 
 You should not need to touch of these options below.
 
-<img src="images/ShinyHuntMew-2.png">
+<img src="images/ShinyHuntMew-2.jpg">
 
 ### Mew wait time:
 
