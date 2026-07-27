@@ -393,7 +393,16 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 | **General:** |
 | [Cloud Island Reset](PokemonPokopia/CloudIslandReset.md) {.nowrap}    | Video | All |
 
+## Pokémon Ruby and Sapphire, Pokemon Emerald (Nintendo Switch)
 
+| **Program** | **Feedback** | **Controllers** |
+| --- | --- | --- |
+| **Shiny Hunting (Ruby/Sapphire):** |
+| [Starter Reset](PokemonRSE/AudioStarterReset.md) {.nowrap}                        |  Video + Audio   | All |
+| **Shiny Hunting (Emerald):** |
+| [Legendary Hunt (Emerald)](PokemonRSE/LegendaryHuntEmerald.md) {.nowrap}          |  Video + Audio   | All |
+| [Shiny Hunt - Deoxys](PokemonRSE/ShinyHuntDeoxys.md) {.nowrap}                    |  Video + Audio   | All |
+| [Shiny Hunt - Mew](PokemonRSE/ShinyHuntMew.md) {.nowrap}                          |  Video + Audio   | All |
 
 ## Zelda: Tears of the Kingdom
 

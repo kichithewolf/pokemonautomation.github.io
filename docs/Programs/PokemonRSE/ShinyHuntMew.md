@@ -4,7 +4,7 @@
 
 Use the Run Away method to shiny hunt Mew in Emerald.
 
-<img src="images/ShinyHuntMew-0.png">
+<img src="images/ShinyHuntMew-0.jpg">
 
 ## Game Settings
 

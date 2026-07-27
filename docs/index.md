@@ -65,6 +65,7 @@ We currently have automation for the following games/platforms:
 - [Pokémon Scarlet/Violet](Programs/index.md#pokemon-scarlet-and-violet)
 - [Pokémon Legends ZA](Programs/index.md#pokemon-legends-z-a)
 - [Pokémon FireRed and LeafGreen (Nintendo Switch)](Programs/index.md#pokemon-firered-and-leafgreen-nintendo-switch)
+- [Pokémon Ruby and Sapphire, Pokemon Emerald (Nintendo Switch)](Programs/index.md#pokemon-ruby-and-sapphire-pokemon-emerald-nintendo-switch)
 - [Zelda: Tears of the Kingdom](Programs/index.md#zelda-tears-of-the-kingdom)
 
 

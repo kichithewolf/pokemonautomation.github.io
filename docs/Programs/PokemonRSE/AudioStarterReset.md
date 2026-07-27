@@ -4,7 +4,7 @@
 
 Soft reset for a shiny starter. Ruby and Sapphire only.
 
-<img src="images/AudioStarterReset-0.png">
+<img src="images/AudioStarterReset-0.jpg">
 
 ## Game Settings
 

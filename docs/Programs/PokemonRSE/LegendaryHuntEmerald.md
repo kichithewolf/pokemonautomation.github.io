@@ -4,7 +4,7 @@
 
 Use the Run Away method to shiny hunt legendaries in Emerald.
 
-<img src="images/LegendaryHuntEmerald-0.png">
+<img src="images/LegendaryHuntEmerald-0.jpg">
 
 ## Game Settings
 

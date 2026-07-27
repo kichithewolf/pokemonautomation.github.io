@@ -4,7 +4,7 @@
 
 Use the run away method to shiny hunt Deoxys in Emerald.
 
-<img src="images/ShinyHuntDeoxys-0.png">
+<img src="images/ShinyHuntDeoxys-0.jpg">
 
 ## Game Settings
 
