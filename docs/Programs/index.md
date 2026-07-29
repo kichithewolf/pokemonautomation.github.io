@@ -14,6 +14,7 @@ This is a list of all the computer-control programs. To run these programs, you 
 - [Pokémon Legends: Z-A](#pokemon-legends-z-a)
 - [Pokémon FireRed and LeafGreen (Nintendo Switch)](#pokemon-firered-and-leafgreen-nintendo-switch)
 - [Pokémon Pokopia](#pokemon-pokopia)
+- [Pokémon Ruby and Sapphire, Pokemon Emerald (Nintendo Switch)](#pokemon-ruby-and-sapphire-pokemon-emerald-nintendo-switch)
 - [Zelda: Tears of the Kingdom](#zelda-tears-of-the-kingdom)
 
 **Notes:**
@@ -400,7 +401,7 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 | **Shiny Hunting (Ruby/Sapphire):** |
 | [Starter Reset](PokemonRSE/AudioStarterReset.md) {.nowrap}                        |  Video + Audio   | All |
 | **Shiny Hunting (Emerald):** |
-| [Legendary Hunt (Emerald)](PokemonRSE/LegendaryHuntEmerald.md) {.nowrap}          |  Video + Audio   | All |
+| [Legendary Run Away (Emerald)](PokemonRSE/LegendaryRunAwayEmerald.md) {.nowrap}   |  Video + Audio   | All |
 | [Shiny Hunt - Deoxys](PokemonRSE/ShinyHuntDeoxys.md) {.nowrap}                    |  Video + Audio   | All |
 | [Shiny Hunt - Mew](PokemonRSE/ShinyHuntMew.md) {.nowrap}                          |  Video + Audio   | All |
 

@@ -6,21 +6,29 @@ Use the run away method to shiny hunt Deoxys in Emerald.
 
 <img src="images/ShinyHuntDeoxys-0.jpg">
 
-## Game Settings
+## Setup
+
+**Switch Settings:**
+
+1. Screen size: Must be 100% within the Switch settings
+2. [Switch 2: All HDR options must be disabled.](../NintendoSwitch/Switch2Notes.md#switch-2-hdr-may-be-problematic)
+
+**Program Settings:**
+
+1. Video Resolution: 1080p or higher
+
+**Game Settings:**
 
 1. Text Speed: Fast
 2. Battle Scene: Off
 3. Frame: Type 1
-
-## Switch Settings
-
-1. Full screen
-2. No filter
+4. Button Mode: **NOT** L=A
 
 ## Setup
 
 1. Your lead Pokemon must be able to run away successfully, or must have a Smoke Ball.
 2. (Optional) Your lead does not have any abilities that activate on entry.
+3. There are no effects that would interrupt movement. (Repels, Eggs hatching, etc.)
 
 ## Instructions
 
