@@ -401,6 +401,7 @@ See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md
 | **Shiny Hunting (Ruby/Sapphire):** |
 | [Starter Reset](PokemonRSE/AudioStarterReset.md) {.nowrap}                        |  Video + Audio   | All |
 | [Legendary Reset](PokemonRSE/LegendaryReset.md) {.nowrap}                         |  Video + Audio   | All |
+| [Gift Reset](PokemonRSE/GiftReset.md) {.nowrap}                                   |  Video + Audio   | All |
 | **Shiny Hunting (Emerald):** |
 | [Legendary Run Away (Emerald)](PokemonRSE/LegendaryRunAwayEmerald.md) {.nowrap}   |  Video + Audio   | All |
 | [Shiny Hunt - Deoxys](PokemonRSE/ShinyHuntDeoxys.md) {.nowrap}                    |  Video + Audio   | All |
